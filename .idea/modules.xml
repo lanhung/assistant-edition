@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Fay-fay-assistant-edition.iml" filepath="$PROJECT_DIR$/.idea/Fay-fay-assistant-edition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/assistant-edition.iml" filepath="$PROJECT_DIR$/.idea/assistant-edition.iml" />
     </modules>
   </component>
 </project>
